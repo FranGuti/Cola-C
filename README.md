@@ -21,3 +21,6 @@ Tiene como objetivo la creación del mismo para posterior uso como librería con
  - Desencolar
    > Elimina de la Cola ,y devuelve, el elemento que se encuentra en la primer posición
   
+También se debe realizar un sistema de Nodos para poder enlazar los elementos de manera tal que, en los atributos, nuestro TDA solo conozca el primer y el ultimo Nodo de la Cola
+
+El Nodo es un "contenedor" que no solo conoce al elemento que porta sino que también cuenta con la capacidad de enlazarse junto con otros, de esta forma podemos crear cadenas de información de forma fácil y segura
